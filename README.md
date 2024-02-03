@@ -17,5 +17,5 @@ An option is financial security that gives its holder the right to buy or sell a
 
 ## Types of options
 
-    1. &A call option&: Gives its holder the right to buy the specified asset at the price in the contract.
+    1. A call option: Gives its holder the right to buy the specified asset at the price in the contract.
     2. A put option:  Gives its holder the right to sell the asset at the specified price.
