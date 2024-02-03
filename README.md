@@ -25,3 +25,6 @@ An option is financial security that gives its holder the right to buy or sell a
     1. European-style Option: Exercised on only at the maturity date of the contract
     2. Amercian-style Option: Exercised at any time before expiry of the contract.
     3. Bermudan-style Option: Excersed before maturity but only on certain pre-specified dates.
+
+
+    %Term%
