@@ -27,7 +27,7 @@ An option is financial security that gives its holder the right to buy or sell a
     3. Bermudan-style Option: Excersed before maturity but only on certain pre-specified dates.
 
 ### Basic Options Terminology
-    Call option: Right to buy the underlying asseet
+    *Call option*: Right to buy the underlying asseet
     Puton option: Right to sell the underlying asset
     Expeiration/maturity date: Date on which the right expires
     Strike/Exercise price: Price at which right may be exercised
