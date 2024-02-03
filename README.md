@@ -5,6 +5,7 @@ The "optionality" characteristic of an option:
     ## Writer has an obligation 
 
   Option contract per underlying:
+  
     1. Equity options ("Equity prices")
     2. Currency options ("Exchange rates')
     3. Interest-rate options ("Interest rates")
