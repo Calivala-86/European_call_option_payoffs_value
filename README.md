@@ -13,3 +13,8 @@ An option is financial security that gives its holder the right to buy or sell a
     3. Interest-rate options ("Interest rates")
     4. Commodity options ("Gold or crude oil")
     5. Other options variables (e.,electricity or credit spreads)
+
+
+## Types of options
+
+    ### 1. A call option
