@@ -26,5 +26,12 @@ An option is financial security that gives its holder the right to buy or sell a
     2. Amercian-style Option: Exercised at any time before expiry of the contract.
     3. Bermudan-style Option: Excersed before maturity but only on certain pre-specified dates.
 
-
-    %Term%
+### Basic Options Terminology
+    Call option: Right to buy the underlying asseet
+    Puton option: Right to sell the underlying asset
+    Expeiration/maturity date: Date on which the right expires
+    Strike/Exercise price: Price at which right may be exercised
+    Amercian-style option: Rught may be exercised at any point before maturity
+    European-style option: Right may be exrcised only at maturity
+    Long position/Holder/Buyer: Party that holds the right in the contract
+    Short position/Writer/Seller: Party with a contingent obligation in the contract
